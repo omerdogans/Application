@@ -5,7 +5,7 @@ class Odev_2 {
     fun soru1(derece: Int): Int {
         println("${derece} Derece = ${derece * 1.8 + 32} Fahrenhiet")
 
-        return 0
+        return derece
     }
 
     fun soru2(genisKenarUzunlugu: Int, kısaKenarUzunlugu: Int) {
